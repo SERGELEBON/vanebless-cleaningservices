@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "house exterior pressure washing cleaning facade"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "house exterior pressure washing cleaning facade",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6734d3341c24.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bdb084c3cf29.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/29e70989d790.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1065px"
+    }
+  ]
+}

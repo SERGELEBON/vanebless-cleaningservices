@@ -1,0 +1,39 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "African woman cleaner maid cleaning house Ghana portrait"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "African woman cleaner maid cleaning house Ghana portrait",
+  "count": 4,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/45db3a870807.jpg",
+      "caption": "",
+      "source": "Catholic Relief Services",
+      "original_width": "1440px",
+      "original_height": "620px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/34b20b3daee1.jpg",
+      "caption": "",
+      "source": "Yahoo",
+      "original_width": "960px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8419bef095bc.jpg",
+      "caption": "",
+      "source": "Wellcome Collection",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fd0915c1512a.jpg",
+      "caption": "",
+      "source": "Acumen",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    }
+  ]
+}

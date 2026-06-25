@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "tidy spotless clean modern living room interior"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "tidy spotless clean modern living room interior",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a24758aa8f45.jpeg",
+      "caption": "",
+      "source": "Apartment Therapy",
+      "original_width": "2000px",
+      "original_height": "1333px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d015b0260e60.jpg",
+      "caption": "",
+      "source": "The Everygirl",
+      "original_width": "1080px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e76b1ccab492.jpg",
+      "caption": "",
+      "source": "Taste of Home",
+      "original_width": "2400px",
+      "original_height": "1600px"
+    }
+  ]
+}

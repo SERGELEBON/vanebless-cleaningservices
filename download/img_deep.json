@@ -1,0 +1,39 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "deep cleaning service disinfection professional team"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "deep cleaning service disinfection professional team",
+  "count": 4,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8b791233b4a8.jpg",
+      "caption": "",
+      "source": "ServiceMaster Clean",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/42fcd0c4f7c8.jpg",
+      "caption": "",
+      "source": "The Home Depot",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/0b9dc1da7ff9.png",
+      "caption": "",
+      "source": "Aspire",
+      "original_width": "1666px",
+      "original_height": "797px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/17237d78e8dd.jpg",
+      "caption": "",
+      "source": "Servpro",
+      "original_width": "1920px",
+      "original_height": "1600px"
+    }
+  ]
+}

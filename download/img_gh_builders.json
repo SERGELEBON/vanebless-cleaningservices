@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "construction worker cleaning after renovation debris African"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "construction worker cleaning after renovation debris African",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f62866ef29e9.jpg",
+      "caption": "",
+      "source": "ny times",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/ada43affd10e.jpg",
+      "caption": "",
+      "source": "Ace Avant",
+      "original_width": "1290px",
+      "original_height": "1209px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/87c88b88874d.png",
+      "caption": "",
+      "source": "The Vertex Companies",
+      "original_width": "1400px",
+      "original_height": "800px"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "professional house cleaning service maid cleaning living room"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "professional house cleaning service maid cleaning living room",
+  "count": 4,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7a000c4c5ec2.jpg",
+      "caption": "",
+      "source": "Bright Leaf Cleaning",
+      "original_width": "1024px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/bc193a0dbb37.jpg",
+      "caption": "",
+      "source": "The CoBuilders",
+      "original_width": "1024px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7b5f9c7eb6bd.jpg",
+      "caption": "",
+      "source": "Best Maids",
+      "original_width": "1536px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/419f4e61b300.jpeg",
+      "caption": "",
+      "source": "Dirt Busters House Cleaning",
+      "original_width": "2560px",
+      "original_height": "1755px"
+    }
+  ]
+}

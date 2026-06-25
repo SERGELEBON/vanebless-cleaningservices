@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "moving boxes house relocation African family"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "moving boxes house relocation African family",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/46dbe9e310c0.png",
+      "caption": "",
+      "source": "GoodtoKnow",
+      "original_width": "3000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2255a0499707.jpeg",
+      "caption": "",
+      "source": "Better Homes and Gardens Real Estate Metro Brokers",
+      "original_width": "3840px",
+      "original_height": "2160px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/542f20feef96.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    }
+  ]
+}

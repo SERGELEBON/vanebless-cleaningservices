@@ -1,0 +1,39 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "sparkling clean modern office interior bright workspace"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "sparkling clean modern office interior bright workspace",
+  "count": 4,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/56bbb1da3e59.jpg",
+      "caption": "",
+      "source": "The Turquoise Home",
+      "original_width": "1400px",
+      "original_height": "2100px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9fc17a82db7e.jpg",
+      "caption": "",
+      "source": "TheCoolist",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1ea8224e37e7.jpg",
+      "caption": "",
+      "source": "San Francisco Design",
+      "original_width": "1800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9fd02c644d18.jpg",
+      "caption": "",
+      "source": "Hommés Studio",
+      "original_width": "1024px",
+      "original_height": "1351px"
+    }
+  ]
+}

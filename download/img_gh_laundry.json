@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "African laundry worker folding clean clothes Ghana"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "African laundry worker folding clean clothes Ghana",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/106c930b3f9a.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9eda0272b3c1.jpg",
+      "caption": "",
+      "source": "ABC News",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/15239a994ab1.jpg",
+      "caption": "",
+      "source": "Norlha",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    }
+  ]
+}

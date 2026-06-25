@@ -1,0 +1,39 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "African cleaning service team workers Ghana Accra professional"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "African cleaning service team workers Ghana Accra professional",
+  "count": 4,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/09dbe84a8d1b.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/f5fd575f9b7d.jpg",
+      "caption": "",
+      "source": "PinkBazaar",
+      "original_width": "1080px",
+      "original_height": "1582px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6c401c6081cd.jpg",
+      "caption": "",
+      "source": "One Acre Fund",
+      "original_width": "1800px",
+      "original_height": "660px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/e3ff0dc8c104.png",
+      "caption": "",
+      "source": "Projects Abroad",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "professional cleaning team in uniform cleaning modern office"
+✅ Got 4 images
+{
+  "success": true,
+  "query": "professional cleaning team in uniform cleaning modern office",
+  "count": 4,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/c1323deb67c8.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/4244bc7c9c09.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "707px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/1e06ca051151.jpeg",
+      "caption": "",
+      "source": "Westlink Commercial Cleaning",
+      "original_width": "1270px",
+      "original_height": "692px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/72fca47a96ea.png",
+      "caption": "",
+      "source": "Kleen Office Environments",
+      "original_width": "1792px",
+      "original_height": "1024px"
+    }
+  ]
+}

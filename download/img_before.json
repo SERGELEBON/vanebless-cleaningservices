@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "messy dirty room before cleaning renovation"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "messy dirty room before cleaning renovation",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/34301ff666bd.jpg",
+      "caption": "",
+      "source": "Bored Panda",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/8c6350cd58e3.jpg",
+      "caption": "",
+      "source": "DepositPhotos",
+      "original_width": "1600px",
+      "original_height": "1282px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/58d893cc694f.jpg",
+      "caption": "",
+      "source": "Apartment Therapy",
+      "original_width": "1500px",
+      "original_height": "844px"
+    }
+  ]
+}

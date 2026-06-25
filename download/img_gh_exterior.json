@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "Black African worker pressure washing exterior house facade"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "Black African worker pressure washing exterior house facade",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/9da5dfd753d5.jpg",
+      "caption": "",
+      "source": "Elko Daily Free Press",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/42e74b0f1ae8.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7287d6aeb22d.jpg",
+      "caption": "",
+      "source": "The New York Times",
+      "original_width": "3000px",
+      "original_height": "1689px"
+    }
+  ]
+}

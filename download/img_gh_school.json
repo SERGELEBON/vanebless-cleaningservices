@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "African school classroom children Ghana cleaning"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "African school classroom children Ghana cleaning",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/72fcc01d336e.jpg",
+      "caption": "",
+      "source": "WE Charity",
+      "original_width": "3008px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cc487bd7062a.jpg",
+      "caption": "",
+      "source": "WE Charity",
+      "original_width": "3008px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/96b9cdeb9cc3.jpg",
+      "caption": "",
+      "source": "The New York Times",
+      "original_width": "1600px",
+      "original_height": "900px"
+    }
+  ]
+}

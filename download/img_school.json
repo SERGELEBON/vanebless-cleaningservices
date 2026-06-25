@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "school classroom cleaning janitor floor waxing"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "school classroom cleaning janitor floor waxing",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6d4f221e1a6d.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/05c83954bff7.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/2b573510cf1c.png",
+      "caption": "",
+      "source": "Apollo Pro Cleaning & Restoration",
+      "original_width": "2953px",
+      "original_height": "1661px"
+    }
+  ]
+}

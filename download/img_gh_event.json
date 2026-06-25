@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "African woman cleaning hotel room hospitality Ghana"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "African woman cleaning hotel room hospitality Ghana",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7850905a4071.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "931px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/84734225838d.jpg",
+      "caption": "",
+      "source": "ORAPI Asia",
+      "original_width": "1920px",
+      "original_height": "1005px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/cb1fb03f5c25.jpg",
+      "caption": "",
+      "source": "Justdial",
+      "original_width": "1728px",
+      "original_height": "1296px"
+    }
+  ]
+}

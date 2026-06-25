@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "event venue hall cleaning after party setup"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "event venue hall cleaning after party setup",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/73a42d4368d0.jpg",
+      "caption": "",
+      "source": "Audiovisual & Live Streaming Services Vancouver | StreamCity.ca",
+      "original_width": "2016px",
+      "original_height": "1512px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/6dcd9e35dd12.jpg",
+      "caption": "",
+      "source": "GetTent",
+      "original_width": "3557px",
+      "original_height": "2536px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/fd2ca757b321.png",
+      "caption": "",
+      "source": "CDC",
+      "original_width": "1200px",
+      "original_height": "676px"
+    }
+  ]
+}

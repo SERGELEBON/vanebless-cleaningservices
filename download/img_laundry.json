@@ -1,0 +1,32 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "laundry dry cleaning folded clean clothes"
+✅ Got 3 images
+{
+  "success": true,
+  "query": "laundry dry cleaning folded clean clothes",
+  "count": 3,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/7152d1f0c455.png",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "640px",
+      "original_height": "1269px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/d9c2dd43017c.jpg",
+      "caption": "",
+      "source": "Trendy Laundromat",
+      "original_width": "1280px",
+      "original_height": "1133px"
+    },
+    {
+      "original_url": "https://sfile.chatglm.cn/images-ppt/a4f0ee52a022.jpg",
+      "caption": "",
+      "source": "Bargain Cleaners",
+      "original_width": "1280px",
+      "original_height": "849px"
+    }
+  ]
+}
